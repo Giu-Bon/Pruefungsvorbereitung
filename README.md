@@ -1,3 +1,1 @@
 # Pruefungsvorbereitung
-# Pruefungsvorbereitung
-# Pruefungsvorbereitung
