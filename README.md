@@ -1,7 +1,7 @@
 # Pruefungsvorbereitung
 
 
-## Strzktur:  
+## Struktur:  
 Angesichts der meist gefragten und meist bepunkteten Themen habe ich die wichtigsten Unterpunkte ausgewählt wozu Aufgaben und Lernzettel zu erstellt werden. 
 
 Bei Augaben bitte Folgendes beachten. Immer eine `Lösungen` Directory erstellen. 
