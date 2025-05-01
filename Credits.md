@@ -2,3 +2,4 @@
 Giu: 
 - RAID-JBOD.md
 - Unterschiede-zwischen-SAN-und-NAS.md
+ 

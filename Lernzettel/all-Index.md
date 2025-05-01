@@ -3,6 +3,7 @@ Lernzettel/
 │   ├── 1.1. - SNMP
 │   ├── 1.2. - DNS-Namensaufloesung
 │   ├── 1.3. - https
+│       └── Zertifikate-und-X509.md
 │   ├── 1.4. - Auth-Verfahren
 │   └── 1.5. - QOS
 ├── 2. - Backup
